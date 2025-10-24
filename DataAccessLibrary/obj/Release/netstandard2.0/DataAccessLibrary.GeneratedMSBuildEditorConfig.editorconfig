@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = DataAccessLibrary
+build_property.ProjectDir = C:\Apps\WatchPupWeb\DataAccessLibrary\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

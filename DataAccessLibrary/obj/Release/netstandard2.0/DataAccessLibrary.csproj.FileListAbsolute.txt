@@ -1,0 +1,10 @@
+C:\Apps\WatchPupWeb\DataAccessLibrary\bin\Release\netstandard2.0\DataAccessLibrary.deps.json
+C:\Apps\WatchPupWeb\DataAccessLibrary\bin\Release\netstandard2.0\DataAccessLibrary.dll
+C:\Apps\WatchPupWeb\DataAccessLibrary\bin\Release\netstandard2.0\DataAccessLibrary.pdb
+C:\Apps\WatchPupWeb\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Apps\WatchPupWeb\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\WatchPupWeb\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Apps\WatchPupWeb\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.AssemblyInfo.cs
+C:\Apps\WatchPupWeb\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Apps\WatchPupWeb\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.dll
+C:\Apps\WatchPupWeb\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.pdb
